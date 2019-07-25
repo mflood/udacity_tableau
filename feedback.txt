@@ -1,0 +1,11 @@
+
+A few things for Traffic Accidents by Month: 
+    1. Since you are using position to show the count of accidents, using circle size for count is redundant. 
+    2. Using different colors for each neighborhood is also redundant since each neighborhood gets its own column.
+    You might consider putting the neighborhoods on the X-Axis so you can see how all the neighborhoods change with respect to eachother
+
+Having different colors for each neighborhood on the map is redundant, since we can tell which neighborhood it is by the position on the map.
+
+Put each sheet in a Dashboard, and then put the dashboards into the story, that way you can add text elements to the layout.
+
+
