@@ -9,23 +9,21 @@
 
 ## Summary
 
-### My story 
-
 > The intention of my story is to convey an understanding of traffic-accident frequency and location eleven neighborhoods close to my home in Denver.
 
 ### The data
 
 > The data that is visualized comes from publicly available
 crime data published by the government of Denver, CO, 
-and spans in time from January 2014 tt hrough July 2019 (today).
+and spans in time from January 2014 through July 2019 (today).
 
 ### My Findings
 
-> Looking at all traffic-accidents from January 2014 to the present, I found that the Baker neighborhood has had the most, over 6000, while Valverde has had the fewest with only around 600. That is an order of magnitude in difference from the "safest" neighborhood to the "most dangerous". 
+> Looking at all traffic-accidents from January 2014 to the present, I found that the Baker neighborhood has had the most incidents (over 6000), while Valverde has had the fewest (with only around 600). There is an order of magnitude in difference from the "safest" neighborhood to the "most dangerous". 
 
-> Looking at accidents month over month, each neighbohood has remained fairly consistent with regards to the number of traffic-accidents. Some neighborhoods, like Westwood and Athmar-Park, are trending downwards in the number of incedents.  West Colfax is one of the few neighborhoods showing a trend towards more accidents.  The trend in most neighborhoods is steady.
+> Looking at the number of traffic-accidents month over month, each neighbohood has remained fairly consistent. Some neighborhoods, like Westwood and Athmar-Park, are trending downwards in the number of incidents.  West Colfax is the only neighborhood showing a _noticable_ trend towards more accidents.
 
-> Looking at a map of where the accidents are occuring, it is evident that main streets have more traffic-accidents than side-streets, and intersections are where most of the incidents are reported.
+> Looking at a map depicting where the accidents are occuring, it is evident that main streets have more traffic-accidents than side-streets, and intersections are where most of the incidents are reported.
 
 > I'm happy to say that I moved from the Baker neighborhood to Barnum in 2014, so my new neighborhood has just a quarter of the number of traffic-accidents as my old one.
 
